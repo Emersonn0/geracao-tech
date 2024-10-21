@@ -1,0 +1,11 @@
+p {
+    color: green;
+}
+
+div p{
+    color: greenyellow;
+}
+
+section > p{
+    color: brown;
+}

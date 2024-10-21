@@ -1,0 +1,10 @@
+@font-face {
+    font-family:"Sofadi";
+    src: url("/CSS/Texto-fontes/fontes/SofadiOne-Regular.ttf");
+    font-weight: 400;
+    font-style: normal;
+}
+body{
+    font-family:"Sofadi";
+    font-weight: 1000;
+}

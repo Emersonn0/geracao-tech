@@ -1,0 +1,83 @@
+body {
+    font-family: Montserrat, Sans-serif;
+}
+
+.container {
+    display: flex;
+    gap: 50px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.head {
+    background-color: #d63384;
+    color: white;
+    padding: 0.5em;
+    text-align: center;
+}
+
+.head2 {
+    height: 400px;
+    background-color: #9933FF;
+
+}
+
+.name {
+    text-align: center;
+    color: #d63384;
+}
+
+.linha {
+    width: 150px;
+    height: 2px;
+    background-color: #d63384;
+}
+
+h3 {
+    text-align: justify;
+    padding: 20px;
+}
+
+.team {
+    text-align: center;
+    color: #d63384;
+    font-size: 32px;
+}
+
+.linha2 {
+    margin-bottom: 50px;
+    width: 150px;
+    height: 2px;
+    background-color: #d63384;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: #9933FF;
+    border-radius: 50%;
+
+}
+
+.names {
+    font-size: 23px;
+    color: #d63384;
+    margin: 5px;
+}
+
+.dev {
+    color: #d63384;
+    margin: 5px;
+    margin-bottom: 100px;
+
+}
+
+footer {
+    display: fixed;
+    background-color: #d63384;
+    color: white;
+    padding: 0.5em;
+    text-align: center;
+    font-size: 1.5em;
+}

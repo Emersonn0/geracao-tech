@@ -1,0 +1,11 @@
+.container{
+    background-color: blue;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.item {
+    border: 1px solid black;
+    text-align: justify; 
+    background-color: red;
+}
